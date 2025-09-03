@@ -38,8 +38,8 @@ const Education = () => {
 
           <div className="border-l-2 border-primary pl-6">
             <h3 className="text-xl font-medium text-foreground mb-2">BTech Computer Science & Engineering</h3>
-            <p className="text-primary font-medium mb-2">VIT Vellore • 2020-2024</p>
-            <p className="text-muted-foreground mb-4">Vellore, Tamil Nadu, India</p>
+            <p className="text-primary font-medium mb-2">SRM Institute of science and technology • 2020-2024</p>
+            <p className="text-muted-foreground mb-4">Chennai, Tamil Nadu, India</p>
             
             <div className="space-y-3">
               <div>

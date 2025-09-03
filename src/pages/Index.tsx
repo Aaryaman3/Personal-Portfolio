@@ -1,7 +1,7 @@
 import Layout from '@/components/Layout';
 import { Button } from '@/components/ui/button';
 import { Github, Linkedin, Mail, FileText } from 'lucide-react';
-import profilePhoto from '@/assets/profile-photo.jpg';
+import profilePhoto from '@/assets/profile-photo.jpeg';
 
 const Index = () => {
   return (
@@ -134,13 +134,13 @@ const Index = () => {
           <div className="space-y-6">
             <div>
               <h4 className="text-lg font-medium text-foreground">MS Computer Science (NLP Track)</h4>
-              <p className="text-primary font-medium">Columbia University • 2024-2026</p>
+              <p className="text-primary font-medium">Columbia University • 2025-2026</p>
               <p className="text-muted-foreground">Focus: Natural Language Processing, Multi-modal AI, Multi-agent Systems</p>
             </div>
             <div>
               <h4 className="text-lg font-medium text-foreground">BTech Computer Science & Engineering</h4>
-              <p className="text-primary font-medium">VIT Vellore • 2020-2024</p>
-              <p className="text-muted-foreground">Magna Cum Laude • Research in Deep Learning and AI Systems</p>
+              <p className="text-primary font-medium">SRM Vellore • 2021-2025</p>
+              <p className="text-muted-foreground">Top 5% of Class • Research in Deep Learning and AI Systems</p>
             </div>
           </div>
         </div>

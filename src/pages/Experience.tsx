@@ -51,7 +51,7 @@ const Experience = () => {
               <h3 className="text-xl font-medium text-foreground">Research Assistant</h3>
               <span className="text-sm text-muted-foreground">2022 - 2024</span>
             </div>
-            <p className="text-primary font-medium mb-3">VIT University</p>
+            <p className="text-primary font-medium mb-3">SRM University</p>
             <p className="text-muted-foreground leading-relaxed">
               Led research in deep learning applications for speech analysis and climate prediction. Published 3 IEEE 
               papers on holistic speech analysis, RAG-based job recommendation systems, and urban heat prediction using 
